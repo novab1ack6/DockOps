@@ -1,2 +1,2 @@
 # DockOps
-Docker Ops - Jenkins and Docker
+Docker Ops - Will consist of Docker Integrated with CI/CD 
